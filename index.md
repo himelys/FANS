@@ -1,4 +1,4 @@
-## Welcome to FANS Group Pages
+## Welcome to FANS Group
 
 FANS webpage initial version
 
@@ -10,7 +10,7 @@ FANS webpage initial version
 
 2월 모임 내용
 
-'''2월모임
+```2월모임
 제목: 와우갑각의 다채널 전기자극을 통한 청신경절 기능평가와 인공와우 수술후 예후 예측
 
 ## Seminar Schedule
