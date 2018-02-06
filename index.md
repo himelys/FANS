@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to FANS Group Pages
 
 FANS webpage initial version
 
