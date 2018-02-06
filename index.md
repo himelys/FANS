@@ -35,7 +35,7 @@ FANS webpage initial version
 
 10월: 
 
-11월:
+11월: 정수영 (KIST)
 
 12월: 서명환/경정숙 (서울대학교병원 이비인후과)
 
