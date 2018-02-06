@@ -2,39 +2,29 @@
 
 FANS webpage initial version
 
-안녕하세요!!
+안녕하세요!! 청각에 관심있는 연구자들의 모임입니다.
 
-You can use the [editor on GitHub](https://github.com/himelys/FANS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Discussion Materials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2월 모임
 
-### Markdown
+2월 모임 내용
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+'''2월모임
+제목: 와우갑각의 다채널 전기자극을 통한 청신경절 기능평가와 인공와우 수술후 예후 예측
 
-```markdown
-Syntax highlighted code block
+## Seminar Schedule
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/himelys/FANS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3월: 배은빛 (서울대학교 뇌과학협동과정)
+4월: 최광진 (서울대학교 전기공학부)
+5월: 
+6월: 박종화 (KIST/서울대학교 전기공학부)
+7월: 박무균 (서울대학교병원 이비인후과)
+8월: 
+9월: 박영진 (한국전기연구원)
+10월: 
+11월:
+12월: 서명환/경정숙 (서울대학교병원 이비인후과)
 
 ## Support or Contact
 
