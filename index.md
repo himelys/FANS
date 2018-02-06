@@ -17,6 +17,8 @@ FANS webpage initial version
 ```
 ## Seminar Schedule
 
+2월: 김두희 (서울대학교 뇌과학협동과정)
+
 3월: 배은빛 (서울대학교 뇌과학협동과정)
 
 4월: 최광진 (서울대학교 전기공학부)
