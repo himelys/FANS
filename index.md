@@ -4,9 +4,7 @@
 매달에 한 번씩 정기적으로 청각, 신경과학, 신경공학, 의공학 관련 연구에 대해 토의하는 모임을 갖습니다.
 
 ### 세미나 장소
-<iframe width="560" height="560" src="https://www.google.co.kr/maps/place/Life+Research+Institute+of+Seoul+National+University+Medical+Research+Center+for+Innovation/@37.5778487,127.0006329,18.67z/data=!4m8!1m2!2m1!1z7ISc7Jq464yA7ZWZ6rWQIOydmOqzvOuMgO2VmSDsnZjtlZnsl7DqtaztmIHsi6DshLzthLA!3m4!1s0x0:0x54426aa1d99e7a3b!8m2!3d37.577683!4d127.0017459">
-</iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1581.0163282751414!2d127.0006329!3d37.5778487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54426aa1d99e7a3b!2sLife+Research+Institute+of+Seoul+National+University+Medical+Research+Center+for+Innovation!5e0!3m2!1sen!2sus!4v1518011957619" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ## Seminar Schedule
 
 | 날짜 | 발표자 | 소속 |
