@@ -15,6 +15,9 @@ FANS webpage initial version
 
 <발표 자료 udpate 예정>
 ```
+
+### 3월 모임
+
 ## Seminar Schedule
 
 2월: 김두희 (서울대학교 뇌과학협동과정)
