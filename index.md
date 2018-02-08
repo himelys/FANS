@@ -1,13 +1,16 @@
 ## Welcome to FANS Group
 
-안녕하세요!! 청각에 관심있는 연구자들의 모임입니다.
+안녕하세요!! 청각에 관심있는 연구자들의 모임입니다. 매달에 한 번씩 정기적으로 청각, 신경과학, 신경공학, 의공학 관련 연구에 대해 토의하는 모임을 갖습니다. 본 모임에 참석을 원하시는 분은 yslim@kist.re.kr 로 연락주세요.
 
-매달에 한 번씩 정기적으로 청각, 신경과학, 신경공학, 의공학 관련 연구에 대해 토의하는 모임을 갖습니다.
 
 ### 세미나 장소
+서울대학교 의학혁신연구소의 2층 1 회의실에서 모임을 갖습니다. 의학혁신연구소의 위치는 아래 지도를 참조하세요.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1581.0163282751414!2d127.0006329!3d37.5778487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54426aa1d99e7a3b!2sLife+Research+Institute+of+Seoul+National+University+Medical+Research+Center+for+Innovation!5e0!3m2!1sen!2sus!4v1518011957619" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Seminar Schedule
+
+매월 예정된 발표자는 아래와 같습니다. 
 
 | 날짜 | 발표자 | 소속 |
 | :---: | :----: | :----: |
