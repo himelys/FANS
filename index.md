@@ -8,6 +8,7 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1581.0163282751414!2d127.0006329!3d37.5778487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54426aa1d99e7a3b!2sLife+Research+Institute+of+Seoul+National+University+Medical+Research+Center+for+Innovation!5e0!3m2!1sen!2sus!4v1518011957619" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
 ## Seminar Schedule
 
 매월 예정된 발표자는 아래와 같습니다. 
@@ -28,6 +29,7 @@
 
 <em>저녁 6시30분에 도시락 식사를 먼저 하고, 그 이후에 세미나가 시작됩니다.
 
+
 ## Discussion Materials
 
 ### 2월 모임
@@ -38,8 +40,12 @@
 ```
 
 ### 3월 모임
+```
+제목: TBA
+발표자: 배은빛 (서울대학교 뇌과학협동과정)
+```
 
 
-## Support or Contact
+## Contact
 
 본 모임에 참석을 원하시는 분은 <yslim@kist.re.kr> 로 연락주세요.
