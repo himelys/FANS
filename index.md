@@ -1,6 +1,6 @@
 ## Welcome to FANS Group
 
-안녕하세요!! 청각에 관심있는 연구자들의 모임입니다. 매달에 한 번씩 정기적으로 청각, 신경과학, 신경공학, 의공학 관련 연구에 대해 토의하는 모임을 갖습니다. 본 모임에 참석을 원하시는 분은 <yslim@kist.re.kr> 로 연락주세요.
+안녕하세요!! 청각에 관심있는 연구자들의 모임입니다. 매달에 한 번씩 정기적으로 신경과학, 신경공학, 의공학 및 기타 공학 연구에 대해 토의하는 모임을 갖습니다. 
 
 
 ### 세미나 장소
@@ -26,6 +26,7 @@
 | 11월 | 정수영 | KIST | 
 | 12월 | 서명환/경정숙 | 서울대학교병원 이비인후과 |
 
+<em>저녁 6시30분에 도시락 식사를 먼저 하고, 그 이후에 세미나가 시작됩니다.
 
 ## Discussion Materials
 
@@ -41,4 +42,4 @@
 
 ## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+본 모임에 참석을 원하시는 분은 <yslim@kist.re.kr> 로 연락주세요.
